@@ -1,5 +1,5 @@
 <div align="center">
-  <code><a href="https://jaylenyu.tistory.com/" title="Tistory Profile"><img width="22" src="https://blog.kakaocdn.net/dn/Nqwam/btrdmBnaJK4/H1Ez1UWUCiVHAkMssL9Bi1/img.png">개발블로그 Blog </a></code>
+  <code><a href="https://jaylenyu.tistory.com/" title="Tistory Profile">개발블로그 <img width="22" src="https://blog.kakaocdn.net/dn/Nqwam/btrdmBnaJK4/H1Ez1UWUCiVHAkMssL9Bi1/img.png"> Blog</a></code>
 
 <br />
 <br />
