@@ -1,7 +1,10 @@
 <div align="center">
-  <code><a href="https://jaylenyu.tistory.com/" title="Tistory Profile">개발블로그 <img width="22" src="https://blog.kakaocdn.net/dn/Nqwam/btrdmBnaJK4/H1Ez1UWUCiVHAkMssL9Bi1/img.png"> Blog</a></code>
+  
+  # 안녕하세요 유정인입니다.
 
 <br />
+
+
 <br />
   
 ## 👩🏻‍💻 STUDYING FRONTEND
@@ -42,4 +45,9 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
 </div>
 <br />
+<br />
+    <br />
+
+  <code><a href="https://jaylenyu.tistory.com/" title="Tistory Profile">개발블로그 <img width="22" src="https://blog.kakaocdn.net/dn/Nqwam/btrdmBnaJK4/H1Ez1UWUCiVHAkMssL9Bi1/img.png"> Blog</a></code>
+
 <br />
