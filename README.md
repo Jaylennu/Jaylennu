@@ -7,7 +7,7 @@
 
 <br />
   
-## 👩🏻‍💻 STUDYING FRONTEND
+## 👩🏻‍💻 FRONTEND
 
 <br />
 
