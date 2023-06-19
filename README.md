@@ -7,9 +7,7 @@
 
 <br />
   
-## 👩🏻‍💻 FRONTEND
-
-<br />
+👩🏻‍💻 <strong>FRONTEND</strong>
 
 
   
@@ -24,7 +22,7 @@
 <div>
   <br />
 
-<center>EXTENTION<center>
+<strong>EXTENTION</strong>
   
 ![prettier](https://img.shields.io/badge/-prettier-%23E5E5E5?style=for-the-badge&logo=prettier&logoColor=#F7B93E)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
@@ -33,7 +31,7 @@
 <br />
 <br />
 
-## ⚒ TOOL
+⚒ <strong>TOOL</strong>
 <br />
 <div>
   <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
