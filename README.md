@@ -1,7 +1,6 @@
 <div align="center">
-  
-  # 안녕하세요 유정인입니다.
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=368DA8&height=230&text=jaylenyu&fontColor=353839&fontSize=90&fontAlignY=37"/>
+</div>
 <br />
 
 
