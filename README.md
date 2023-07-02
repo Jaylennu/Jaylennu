@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=368DA8&height=230&text=유정인 입니다.&fontColor=353839&fontSize=90&fontAlignY=37"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=368DA8&height=230&text=유정인입니다.&fontColor=353839&fontSize=90&fontAlignY=37"/>
 </div>
 <br />
 
