@@ -1,50 +1,39 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=368DA8&height=230&text=유정인입니다.&fontColor=353839&fontSize=90&fontAlignY=37"/>
-</div>
-<br />
+<div align="center" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FFFFFF&background=CAE2FF00&center=true&vCenter=true&width=800&height=200&lines=Hi+There+%F0%9F%91%8B;%F0%9F%8D%80+Welcome+to+Jaylen+Github+%F0%9F%8D%80)](https://git.io/typing-svg)
 
 
-<br />
-  
-👩🏻‍💻 <strong>FRONTEND</strong>
 
+<h3>⚙️ Tech Stack ⚙️</h3>
 
-  
-|JavaScript|React|Sass|
-| :--: | :--: | :--: |
-| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" /> |  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="63" height="63" /></div> |
+<br/>
+
 <div>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </div>
 <div>
-  <br />
-
-<strong>EXTENTION</strong>
-  
-![prettier](https://img.shields.io/badge/-prettier-%23E5E5E5?style=for-the-badge&logo=prettier&logoColor=#F7B93E)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-  </div>
-<br />
-<br />
-
-⚒ <strong>TOOL</strong>
-<br />
-<div>
-  <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 </div>
-<br />
-<br />
-    <br />
+<div>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+</div>
 
-  <code><a href="https://jaylenyu.tistory.com/" title="Tistory Profile">개발블로그 <img width="22" src="https://blog.kakaocdn.net/dn/Nqwam/btrdmBnaJK4/H1Ez1UWUCiVHAkMssL9Bi1/img.png"> Blog</a></code>
+<br/>
 
-<br />
+<h3>👨🏻‍💻 Studying 👨🏻‍💻</h3>
+
+<br/>
+
+<div>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+</div>
